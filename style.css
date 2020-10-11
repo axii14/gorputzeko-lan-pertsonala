@@ -1,0 +1,101 @@
+.kontenedoria{
+    display: none;
+    flex-direction: column;
+    padding:20px;
+    border: 3px solid #292929;
+    border-radius: 10px;
+  }
+  
+  .botoiakk.aukerak{
+    margin-right: 10px;
+    border-radius: 0;
+    background-color: rgb(75, 75, 75);
+  }
+  
+img{
+    width: 200px;
+  }
+  
+h2{
+    font-weight: 400;
+    text-align: center;
+    padding: 2% 0% 0% 0%;
+    font-family: "Calibri";
+    color: #292929;
+  }
+
+h1{
+    text-align: center;
+    padding: 1.5% 0% 0% 0%;
+    font-family: "Verdana";
+    font-style: oblique;
+    color: #292929;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    line-height: 1.25;
+    background-color: rgb(192, 192, 192);
+  }
+  
+  table {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    table-layout: fixed;
+  }
+  
+  table tr {
+    border: 1px solid black;
+    padding: .35em;
+  }
+  
+  table th,
+  table td {
+    padding: .625em;
+    text-align: center;
+  }
+  
+  table th {
+    font-size: .85em;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+  }
+  
+.taulia{
+    padding: 190px 0px 0px 0px;
+    background-color: rgb(175, 175, 175);
+  }
+
+  .a1{
+    padding: 50px 0px 0px 0px;
+    text-align: center;
+    background-color: rgb(187, 187, 187);
+  }
+
+  .a3{
+    padding: 50px 0px 0px 0px;
+    text-align: center;
+    background-color: rgb(161, 161, 161);
+  }
+
+  .bostena{
+    width: 19%;
+    float: left;
+    margin: 2% 0 3% 0.5%;
+    text-align: center;
+  }
+
+  .a4{
+    padding: 190px 0px 0px 0px;
+    text-align: center;
+    background-color: rgb(148, 148, 148);
+  }
+
+  .a5{
+    padding: 200px 0px 0px 0px;
+    text-align: center;
+    background-color: rgb(133, 133, 133);
+  }
