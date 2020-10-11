@@ -28,7 +28,6 @@ h1{
     text-align: center;
     padding: 1.5% 0% 0% 0%;
     font-family: "Verdana";
-    font-style: oblique;
     color: #292929;
 }
 
@@ -65,7 +64,7 @@ body {
   }
   
 .taulia{
-    padding: 190px 0px 0px 0px;
+    padding: 6px 0px 0px 0px;
     background-color: rgb(175, 175, 175);
   }
 
@@ -98,4 +97,8 @@ body {
     padding: 200px 0px 0px 0px;
     text-align: center;
     background-color: rgb(133, 133, 133);
+  }
+
+  h3{
+   text-align: center;
   }
