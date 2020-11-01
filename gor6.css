@@ -1,0 +1,105 @@
+body{
+    cursor: url("https://github.com/axii14/gorputzeko-lan-pertsonala/blob/main/Images/drogon.png?raw=true"), pointer;
+    background-image: linear-gradient( rgba(0, 0, 0, 4), rgba(0, 0, 0, 0.5) ), url("https://images3.alphacoders.com/841/thumb-1920-841435.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin:0;
+    padding: 0;
+  }
+
+
+#zatixa{
+	position: fixed;
+	top: 10px;
+	bottom: 10px;
+	overflow-y: scroll;
+  transition: 2s ease;
+}
+
+#s p{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+#s{
+	width: 100%;
+	margin: 0 auto;
+	padding-top: 2em;
+  padding-bottom: 2em;
+  background-color: #2d2d2d;
+}
+
+.titulua{
+	text-align: center;
+	color: #c2b14e;
+	font-family: 'Arvo', serif;
+  font-size: 30px;
+	margin-left: 10%;
+}
+
+.titulua2{
+	text-align: center;
+	color: #c2b14e;
+	font-family: 'Arvo', serif;
+  font-size: 30px;
+}
+
+.argazkixia{
+	width: 20%;
+	display: inline-block;
+  ertical-align: top;
+}
+
+img{
+	max-width: 16em;
+  max-height:12em;
+  width: auto;
+  height: auto;
+  margin:auto;
+	display:block;
+}
+
+.textua{
+	width: 70%;
+	display: inline-block;
+	vertical-align: top;
+	padding: 2%;
+}
+
+.textua2{
+	width: 96%;
+	display: inline-block;
+	vertical-align: top;
+	padding: 2%;
+}
+
+p{
+	margin: 0 auto;
+	color: white;
+	line-height: 1.6;
+  font-size: calc(0.9em + 1.3vmin);
+}
+
+@media screen and (max-width: 1000px) {
+	
+	.karratua{
+		width: 100%;
+	}
+	
+	.titulua{
+		margin-left: 0;
+		padding: .5em;
+	}
+	
+	.argazkixia{
+		width: 100%;
+	}
+  
+	.textua{
+		width: 90%;
+		text-align: center;
+		margin: 0 auto;
+		margin:auto;
+		display:block;
+	}}
