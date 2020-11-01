@@ -1,0 +1,101 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    cursor: url("https://github.com/axii14/gorputzeko-lan-pertsonala/blob/main/Images/drogon.png?raw=true"), pointer;
+    background-color: rgb(20, 20, 20)
+  }
+  
+.astia{
+    display: flex;
+    height: 50vh;
+  }
+  
+.fondua{
+    flex: 1 0 10em;  
+    box-shadow: 0 0 30px #424242;
+    overflow: hidden;
+    padding: 1em;
+    color: black;
+    text-align: center;
+    list-style-position: inside;
+    transition: flex-basis 500ms ease-in-out;
+    flex-shrink: 1;
+  }
+  
+.fondua:hover{
+    flex-basis: 30em;
+  }
+  
+.fondua:hover .kontenidua{
+    opacity: 1;
+  }
+  
+.eguna{
+    font-size: 1.2em;
+  }
+  
+.kontenidua{
+    opacity: 0;
+    transition: opacity 500ms ease-in-out;
+  }
+  
+.kontenidua li{
+    line-height: 2em;
+  }
+  
+.zatixa{
+  text-align: center;
+  margin: 50px auto 50px auto;
+  max-width: 1500px;
+  width: 90%;
+  box-shadow: 0px 0px 20px 6px rgb(181, 246, 255);
+  color: white;
+  background-color: rgb(90, 90, 90);
+}
+
+.separadoria{
+  padding-top: 50px;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  font-family: verdana;
+}
+
+.a{
+  color: white;
+  text-align: center;
+  font-family: "Ubuntu", Candara, Futura, sans-serif;
+}
+
+#e{
+  color: rgb(220, 237, 253);
+  text-align: center;
+  font-family: "Futura", Helvetica, sans-serif;
+}
+
+.herena{
+  width: 28%;
+  float: left;
+  margin: 2% 0% 3% 4%;
+  text-align: center;
+}
+
+.herena2{
+  width: 28%;
+  margin: 2% 0% 3% 4%;
+  text-align: center;
+  padding: 0% 0% 0% 32%;
+}
+
+
+.herena img, .herena2 img {
+	-webkit-filter: blur(3px);
+	filter: blur(3px);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.herena:hover img , .herena2:hover img {
+	-webkit-filter: blur(0);
+	filter: blur(0);
+}
