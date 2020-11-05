@@ -1,7 +1,6 @@
 body{
     font-family: 'Open Sans', sans-serif;
-    background-color: rgb(20, 20, 20);
-    color: white;
+    background-color: rgb(20, 20, 20);;
 }
   
 #mapia, #mapixia, #mapia4{
@@ -11,7 +10,6 @@ body{
     border: 3px solid black;
     padding: 0% 0% 0% 8%;
 }
-
 #mapia2, #mapia3{
   width: 42%;
   height: 300%;
@@ -32,7 +30,7 @@ body{
 
 *{
     outline: 0;
-    cursor: url("https://github.com/axii14/gorputzeko-lan-pertsonala/blob/main/Images/zapatillia1.png?raw=true"), pointer;
+    cursor: url("drogon.png"), pointer;
 }
   
 section{
@@ -118,7 +116,7 @@ details[open] p{
 }
   
   .as{
-  height: 3346.4px;
+  height: 3406.4px;
 }
 
 .es{
@@ -126,11 +124,11 @@ details[open] p{
 }
 
 .is{
-  height: 3478.4px;
+  height: 3518.4px;
 }
 
 .us{
-  height: 2318.4px;
+  height: 2340px;
 }
 
 p{
