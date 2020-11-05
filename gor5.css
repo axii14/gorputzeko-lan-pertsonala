@@ -1,6 +1,6 @@
 body{
     font-family: 'Open Sans', sans-serif;
-    cursor: url("https://github.com/axii14/gorputzeko-lan-pertsonala/blob/main/Images/zapatillia1.png?raw=true"), pointer;
+    cursor: url("drogon.png"), pointer;
     background-color: rgb(20, 20, 20)
   }
   
@@ -74,28 +74,20 @@ h1{
   font-family: "Futura", Helvetica, sans-serif;
 }
 
-.herena{
-  width: 28%;
-  float: left;
-  margin: 2% 0% 3% 4%;
-  text-align: center;
-}
 
-.herena2{
-  width: 28%;
-  margin: 2% 0% 3% 4%;
-  text-align: center;
-  padding: 0% 0% 0% 32%;
+
+#dd{
+  width: 90%;
+    height: 600px;
+    margin: 10px 10px 0;
+    padding: 0% 0% 0% 4%;
+    text-align:center;
+
 }
 
 
-.herena img, .herena2 img {
-	-webkit-filter: blur(3px);
-	filter: blur(3px);
-	-webkit-transition: .3s ease-in-out;
-	transition: .3s ease-in-out;
+iframe{
+  width: 100%;
+  height: 100%;
 }
-.herena:hover img , .herena2:hover img {
-	-webkit-filter: blur(0);
-	filter: blur(0);
-}
+
