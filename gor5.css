@@ -91,14 +91,14 @@ iframe{
   height: 100%;
 }
 
-a:link {
+#linka:link {
   text-decoration: none;
 }
 
-a:visited {
+#linka:visited {
   color: rgb(144, 172, 177);
 }
 
-a:hover {
+#linka:hover {
   text-decoration: underline;
 }
