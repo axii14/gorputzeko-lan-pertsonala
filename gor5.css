@@ -92,13 +92,17 @@ iframe{
 }
 
 #linka:link {
-  text-decoration: none;
+  color: rgb(144, 172, 177);
 }
 
 #linka:visited {
-  color: rgb(144, 172, 177);
+  color: rgb(23, 180, 207);
 }
 
 #linka:hover {
   text-decoration: underline;
+}
+
+#linka:active {
+  color: rgb(38, 38, 141);
 }
