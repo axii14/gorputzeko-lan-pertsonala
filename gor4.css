@@ -31,6 +31,7 @@ body{
 *{
     outline: 0;
     cursor: url("drogon.png"), pointer;
+    color: white;
 }
   
 section{
