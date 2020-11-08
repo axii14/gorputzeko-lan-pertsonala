@@ -14,7 +14,7 @@ body{
 	top: 10px;
 	bottom: 10px;
 	overflow-y: scroll;
-  transition: 2s ease;
+        transition: 2s ease;
 }
 
 #s p{
@@ -33,15 +33,15 @@ ol{
 	width: 100%;
 	margin: 0 auto;
 	padding-top: 2em;
-  padding-bottom: 2em;
-  background-color: #2d2d2d;
+        padding-bottom: 2em;
+        background-color: #2d2d2d;
 }
 
 .titulua{
 	text-align: center;
 	color: #c2b14e;
 	font-family: 'Arvo', serif;
-  font-size: 30px;
+        font-size: 30px;
 	margin-left: 10%;
 }
 
@@ -49,20 +49,20 @@ ol{
 	text-align: center;
 	color: #c2b14e;
 	font-family: 'Arvo', serif;
-  font-size: 30px;
+        font-size: 30px;
 }
 
 img{
 	max-width: 16em;
-  max-height:12em;
-  width: auto;
-  height: auto;
-  margin:auto;
+        max-height:12em;
+        width: auto;
+        height: auto;
+        margin:auto;
 	display:block;
 }
 
 .textua{
-	width: 70%;
+	width: 90%;
 	display: inline-block;
 	vertical-align: top;
 	padding: 2%;
@@ -79,7 +79,7 @@ p{
 	margin: 0 auto;
 	color: white;
 	line-height: 1.6;
-  font-size: calc(0.9em + 1.3vmin);
+        font-size: calc(0.9em + 1.3vmin);
 }
 
 @media screen and (max-width: 1000px) {
