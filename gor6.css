@@ -37,14 +37,6 @@ ol{
         background-color: #2d2d2d;
 }
 
-.titulua{
-	text-align: center;
-	color: #c2b14e;
-	font-family: 'Arvo', serif;
-        font-size: 30px;
-	margin-left: 10%;
-}
-
 .titulua2{
 	text-align: center;
 	color: #c2b14e;
@@ -59,13 +51,6 @@ img{
         height: auto;
         margin:auto;
 	display:block;
-}
-
-.textua{
-	width: 90%;
-	display: inline-block;
-	vertical-align: top;
-	padding: 2%;
 }
 
 .textua2{
