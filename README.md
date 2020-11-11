@@ -1,5 +1,5 @@
-# gorputzeko-lan-pertsonala
-Oharrak:
+# Oharrak:
+
 
 1- Nire aste bateko planifikazioko zatian automatikoki zabalduko zaizkizu Astelehen, Azteazken, Ostiral, Larunbat eta Igandeko saioak. Egunak gorriz agertzen den atalari klik eginez itxi egingo zaizkizu, eta era ordenatuagoan ikusi ahalko duzu dena.
 
