@@ -1,3 +1,5 @@
+## Nitaz fiaitten ezbaza fitxategi bakoitzaren izkinan agertzen da noiz egin den azken aldaketa.
+
 # Oharrak:
 
 
