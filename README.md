@@ -1,7 +1,7 @@
 # Oharrak:
 
 
-1- Nire aste bateko planifikazioko zatian automatikoki zabalduko zaizkizu Astelehen, Azteazken, Ostiral, Larunbat eta Igandeko saioak. Egunak gorriz agertzen den atalari klik eginez itxi egingo zaizkizu, eta era ordenatuagoan ikusi ahalko duzu dena.
+* *1-* Nire aste bateko planifikazioko zatian automatikoki zabalduko zaizkizu Astelehen, Azteazken, Ostiral, Larunbat eta Igandeko saioak. Egunak gorriz agertzen den atalari klik eginez itxi egingo zaizkizu, eta era ordenatuagoan ikusi ahalko duzu dena.
 
 2- Saioetan agertzen diren mapetan era askoz erosoagoan "zoom" egin ahal dezakezu bertan agertzen den karratuari "Aceptar" emanez eta Ctrl tekla sakatuta edukiz eta saguaren erdiko katxarritua gora eta behera mugituz. 
 Mapan leku batetik bestera desplazatu ahalko zara gainean klik eginez eta zapalduta daukazula arrastatuz.
