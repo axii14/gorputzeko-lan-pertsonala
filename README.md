@@ -1,4 +1,4 @@
-## Nitaz fiaitten ezbaza fitxategi bakoitzaren izkinan agertzen da noiz egin den azken aldaketa.
+## Nitaz fidatzen ezbazara fitxategi bakoitzaren izkinan agertzen da noiz egin den azken aldaketa.
 
 # Oharrak:
 
